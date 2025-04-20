@@ -5,7 +5,7 @@
 #     ██   ██ ██   ██ ██   ██ ██  ██  ██   ██ ██   ██ ██  ██  ██    ██    
 #     ██████  ██   ██ ██   ██ ██   ██ ██   ██ ██   ██ ██      ██    ██    "
 #
-#                          ~@~ code by 0X4ritra ~@~
+#                          ~@~ code by DC_DEV_BYTE ~@~
 
 clear
 
@@ -37,7 +37,7 @@ cd DARKARMY
 
 clear
 
-git clone https://github.com/0x4ritra/DARKARMY.git
+git clone https://github.com/DC_DEV_BYTE/DARKARMY.git
 
 clear
 
