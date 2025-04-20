@@ -8,7 +8,7 @@
 #       | | | |  _  ||    /|    \ |  _  ||    /| |\/| | \ /  
 #       | |/ /| | | || |\ \| |\  \| | | || |\ \| |  | | | |  
 #       |___/ \_| |_/\_| \_\_| \_/\_| |_/\_| \_\_|  |_/ \_/  
-#                                       ~@~ coded by 0X4ritra ~@~
+#                                       ~@~ coded by DC_DEV_BYTE ~@~
 
 import sys
 import argparse
@@ -110,7 +110,7 @@ darkarmylogo = """\033[0m
  \033[91m"""
 def menu():
     print (darkarmylogo + """\033[1m
-   [!] Coded By 0X4ritra [!] https://dark4rmy.in [!]
+   [!] Coded By DC_DEV_BYTE [!] https://dark4rmy.in [!]
 \033[0m
    {1}--Information Gathering
    {2}--Password Attacks
