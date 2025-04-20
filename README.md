@@ -7,10 +7,8 @@ Issues
 Pull requests
 DARKARMY
 /README.md
-0x4ritra
-0x4ritra
-3 years ago
-134 lines (92 loc) · 2.35 KB
+
+120 lines (92 loc) · 2.35 KB
 
 Preview
 
@@ -91,7 +89,7 @@ Installation
 Installation Linux alt tag
 This Tool Must Run As ROOT !!!
 
-git clone https://github.com/0x4ritra/DARKARMY.git
+git clone https://github.com/DC_DEV_BYTE/DARKARMY.git
 
 cd DARKARMY
 
@@ -108,7 +106,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/0x4ritra/DARKARMY.git
+git clone https://github.com/DC_DEV_BYTE/DARKARMY.git
 
 cd DARKARMY
 
@@ -117,6 +115,6 @@ chmod +x darkarmy.py
 python2 darkarmy.py
 
 Development By :
-Developer / Author: 0X4ritra
+Developer / Author: DC_DEV_BYTE
 
 😈 Visit 😈
